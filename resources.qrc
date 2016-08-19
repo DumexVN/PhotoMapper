@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PhotoMapper" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
